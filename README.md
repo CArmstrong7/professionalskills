@@ -1,6 +1,6 @@
 # Professional Skills Software Engineering Assignment
 
-##Summary 
+## Summary 
 
 This project requires you to apply the project management techniques discussed in the first semester and a selection of the material studied in your other second year modules to a development project. 
 
