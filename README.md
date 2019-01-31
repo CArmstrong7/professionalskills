@@ -1,5 +1,17 @@
 # Professional Skills Software Engineering Assignment
 
+## Deadlines: 
+
+8th February: Project proposal. 
+
+22nd February: User analysis and technical plan. 
+
+8th March: Literature review and ethical issues report. 
+
+5th April: Design review. 
+
+1st May: Software demonstration, critical review and signed records.
+
 ## Summary 
 
 This project requires you to apply the project management techniques discussed in the first semester and a selection of the material studied in your other second year modules to a development project. 
