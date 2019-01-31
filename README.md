@@ -1,5 +1,10 @@
 # Professional Skills Software Engineering Assignment
 
+## Assignment
+Create an augmented reality playspace prototype.
+
+### Team
+
 ## Deadlines: 
 
 ### 8th February: Project proposal. 
@@ -86,7 +91,7 @@ In this report you describe all key technical elements of the development.
 
 ### 1st May: Software demonstration, critical review and signed records.
 
-## Summary 
+## Brief Summary 
 
 This project requires you to apply the project management techniques discussed in the first semester and a selection of the material studied in your other second year modules to a development project. 
 
